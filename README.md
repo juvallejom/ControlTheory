@@ -14,3 +14,9 @@
 	</a>
 	<br>
 </div>
+
+
+## Resoruces
+https://github.com/SergeiSa/Control-Theory-Slides-Spring-2022
+https://github.com/A-make/awesome-control-theory/blob/main/README.md?plain=1
+https://engineeringmedia.com/
