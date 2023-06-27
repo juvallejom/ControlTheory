@@ -18,6 +18,7 @@
 ## H-infinite
 
 ### Coupled and Decoupled Systmes
+https://www.researchgate.net/post/What-is-Coupling-and-Decoupling-in-Control-system-engineering#:~:text=%20Coupling%20is%20the%20interaction%20between%20the%20controlled,are%20in%20the%20need%20to%20decouple%20the%20system.
 
 
 ## Books 
